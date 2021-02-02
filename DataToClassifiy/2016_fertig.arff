@@ -1,0 +1,276 @@
+@relation 2016_fertig-weka.filters.unsupervised.attribute.NumericToNominal-Rlast-weka.filters.unsupervised.attribute.NominalToString-Cfirst
+
+@attribute Tweet string
+@attribute Label {0,1}
+
+@data
+'RAPEFUGEES  Sexuelle Uebergriffe auf 30 Frauen bei Schlossgrabenfest Darmstadt - Taeter als Auslaender identifiziert    ',0
+'  Fluechtlingskriminalitaet | asylchaos grenzendicht asylanten merkelmussweg ',0
+'Fluechtlingskriminalitaet | asylchaos grenzendicht asylanten merkelmussweg ',0
+'Dalai Lama sagt  es sind zu viele Asylanten ',1
+'Die Behoerden werden d.Sommer viel zu tun haben um Taten v.  Taharrushgamea und Rapefugees zu vertuschen!  ',0
+'Merkel s Rapefugees koennen sich diesen Sommer in D voll austoben und die Behoerden werden mit Vertuschung u. Relativierung kaum nachkommen!',0
+'  . Ja  Umso wichtiger dass WIR nicht still sind! Gutmenschen wollen uns Kinderschuetzer mundtot machen. Isl…',0
+'Kinderehen nach Scharia in Deutschland (noch) anerkannt! Islam refugeeswellcome rapefugees ',0
+'   Multikulti ist langsamer Selbstmord.',0
+'Fluechtlingskriminalitaet | deutschland krimigranten asylanten afd migranten ',0
+'  Merkel bezeichnet Ausspruch v Gauland als niedertraechtig? Wie bezeichnet sie dann Raubueberfaelle v Asylanten auf 80 jaeh…',0
+'  Fluechtlingskriminalitaet | deutschland krimigranten asylanten afd migranten ',0
+'  Taharrush wird wohl noch dieses Jahr olympische Disziplin. Schnell die Rapefugees schnell einbuergern. Gold is save ',0
+'  Warum das Urteil EuGH Kopftuch ein Schlag gegen alle praktizierenden muslimischen Frauen ist: ',0
+'Nochmal zu Darmstadt...  Rapefugees ',0
+'wenn beim schlossgrabenfest in Darmstadt nur 18 frauen von Asylanten belaestigt werden spricht die polizei von positiver Bilanz!  kotz',0
+' Multikulti ist langsamer Selbstmord.',1
+'Warum das Urteil EuGH Kopftuch ein Schlag gegen alle praktizierenden muslimischen Frauen ist: ',0
+'  Die wissen doch dass denen hier nix passiert!   Deutschland = Paradies fuer Rapefugees weil Kuscheljustiz  ',0
+'KindleUnlimited Liebesdrama Islam Multikulti Lesen Strandlektuere Warum sich ploetzlich alles aenderte? Warum... ',0
+'Die wissen doch dass denen hier nix passiert!   Deutschland = Paradies fuer Rapefugees weil Kuscheljustiz  ',0
+'  Grosses Aufraeumen nach dem unwetter Alptraum! Gelangweilte Asylanten schauen zu und haben die Haende in den Taschen! ',0
+'Jeden mit Migrationshintergrund genommen Deutsche raus war das Motto. Glueckwunsch zum Verlieren!   fluechtlinge rapefugees',0
+'18 Anzeigen nach sexuellen Belaestigungen in Darmstadt: ',1
+'  Fluechtlingskriminalitaet | willkommenskultur afd asylanten spd krimigranten ',1
+'24 rechtsextreme Angriffe auf Asylanten im Jahr 2015 und knapp 9000 Straftaten von Asylanten im selben Zeitraum.  Was kommt im Radio?',0
+'Unglaublich... es nimmt einfach kein Ende.    Rapefugees  Darmstadt  Koeln',0
+'Fluechtlingskriminalitaet | willkommenskultur afd asylanten spd krimigranten ',1
+'Aber mit Migranten u. Asylanten hat das sicher nichts zu tun. Ich freue mich schon auf tolle Integrationsartikel. ',0
+'Darmstadt:Sexuelle Uebergriffe bei Musikfest - Merkel hat mitgegrapscht Das sind ihre Rapefugees:  MORE  ',0
+'Verwandtennachzug? Immer oefter muessen Asylanten zum DNS-Test ',0
+'Das ist alles kein Problem viel schlimmer waere Islamophobia. ',0
+'Darmstadt: 18 Frauen zeigen sexuelle Uebergriffe an    Mal wieder Meldungen ueber Einzelfaelle   rapefugees  ',0
+' Widerlich schon wieder ein neues Koelnhbf in Darmstadt! Schluss mit rapefugees!',0
+'PI: Taharrush in Darmstadt: 18 Frauen begrapscht: Nach den sexuellen Belaestigungen waehrend des… ',0
+'  Fluechtlingskriminalitaet | StopRefugees migranten merkel spd asylanten ',0
+'Fluechtlingskriminalitaet | StopRefugees migranten merkel spd asylanten ',0
+'RAPEFUGEES  Darmstadt Schlossgrabenfest: Maenner umzingeln Frauenbelaestigen sie sexuell - Fluechtlinge festgenommen  ',0
+'  Darmstadt : Wieder sexuelle Uebergriffe bei Festival (Asylanten Migranten) 15 Anzeigen. Stoppt das endlich!!! ',0
+'  Nur noch mal zur Erinnerung nach SteffenSimon|s Propaganda-Rede gestern in der ARD gestern zu multikulti: ',0
+'Silvester Koeln stellten rapefugees Straftaten wie sexuelleUebergriffe ',0
+?,0
+'Darmstadt : Wieder sexuelle Uebergriffe bei Festival (Asylanten Migranten) 15 Anzeigen. Stoppt das endlich!!! ',0
+'Die Namen der Taeter (statt der Opfer) waeren sicher weitgehend wertlos. Rapefugees sind eh unter falschem Namen hier.',0
+' Was dieses Land NICHT brauch is einen Haufen krimineller Rapefugees  Sozialschmarotzer die hier machen was sie wollen',0
+'Merkel bezeichnet Ausspruch v Gauland als niedertraechtig? Wie bezeichnet sie dann Raubueberfaelle v Asylanten auf 80 jaehrige Mitbuerger?',0
+'  Der Alptraum geht weiter. KoelnHbf 2.0 Asylanten   Asylbewerber ',0
+'Fluechtlingskriminalitaet | merkel asylchaos asylanten einzelfall deutschland ',0
+'Es geht munter weiter migranten antaenzer multikulti Frauen b Schlossgrabenfest sexuell belaestigt - 18 Anzeigen ',0
+'Zahl aus Oesterreich geschleuster Fluechtlinge steigt wieder! Migranten Asylanten -   ',0
+'  Schwaebisch Gmuend Unwetter Alptraum! Jede Hand wird gebraucht um Aufzuraeumen! Asylanten sitzen in der Sonne und geniessen!',0
+'Belaestigungen auf Schlossgrabenfest: Weitere Frauen melden sich bei Polizei - ',0
+'Der Alptraum geht weiter. KoelnHbf 2.0 Asylanten   Asylbewerber ',0
+' Ich habe das auch nicht als Beleidigung aufgefasst. 40 Jahre des Versuches Multikulti zu sein sollte jeden aufwecken!',0
+'  Fluechtlingskriminalitaet | merkelmussweg abmerkeln bunteVielfalt asylanten ',0
+'  Islamisten unterwandern deutsche Bundeswehr islamisierung Bundeswehr afd deutschland merkelmussweg abmerkeln ',0
+'Ich wollte am Sonntag AfD waehlen weil ich gegen die Islamisierung Deutschlands bin. Ich bin mir aber im Unklaren. ',0
+'Islamisten unterwandern deutsche Bundeswehr islamisierung Bundeswehr afd deutschland merkelmussweg abmerkeln  ',0
+'Fluechtlingskriminalitaet | merkelmussweg abmerkeln bunteVielfalt asylanten ',0
+'  AM Steinmeier bei DEU-ITA-Regierungskonsultationen mit AM  Gespraeche u.a. zu Libyen + Migration ',0
+'  Im  gibt es auch ein tolles Projekt zu Museum und Migration  ',0
+'Notbremse an der Grenze - Daenemark verschaerft Asylgesetze: Asylanten Migranten  ',0
+'  Diese Asylanten wollen doch nur unsere Sozialleistungen!  Nein! Die wollen hier arbeiten.  DIE NEHMEN UNS DIE ARBEITSPLAeTZ…',0
+'  Imigranten bzw. Asylanten sollten das Grundgesetz als oberste Instanz verbindlich anerkennen - oder ausgewiesen wer…',0
+'  Baden-Wuerttemberg: Zahl der Haeftlinge fluechtlingsbedingt stark gestiegen Migration ',0
+'  Fluechtlingskriminalitaet | MerkelMuslims Multikulti willkommenskultur asylanten ',0
+'Am Mo. war es in meiner Stadt soweit. Die erste Muslima wurde auf einem Friedhof ohne Sarg beerdigt! ',0
+'  Italienische Kuestenwache rettet 3000 Fluechtlinge aus Seenot ',0
+'WirSchaffenDas ist Asyl u migration feindlich weil d. Demokratie schadet und falsche Hoffnungen u Enttaeuschung bei Fluechtlinge erzeugt',0
+'Merkel uebt in Fluechtlingspolitik Selbstkritik ',0
+'Perversion der Seenotrettung – Africa  Libyen Migration fluechtlingskrise  wegeconBLOG ',0
+'  Vollverschleierung missachtet Gleichheit von Mann  Frau und behindert Integration. Sobotka  Migration EU Asyl OeVP',0
+'  Fluechtlingskriminalitaet | refugeeswelcome MerkelMuslims asylanten krimigranten ',0
+'Beamte nehmen Pillen-Dealer hoch - die Migration ist wohl eine wahre Goldgrube fuer Juristen ... ',0
+'  Is ja nicht so als haette EU nix wirklich Draengendes zu loesen; Austerititaet Migration ENP etc. BrexitVote: worst Timing…',0
+'Fluechtlingskriminalitaet | MerkelMuslims Multikulti willkommenskultur asylanten ',0
+'Baden-Wuerttemberg: Zahl der Haeftlinge fluechtlingsbedingt stark gestiegen Migration ',0
+'Vollverschleierung missachtet Gleichheit von Mann  Frau und behindert Integration. Sobotka  Migration EU Asyl OeVP',0
+'  Das Asylrecht darf nicht von Straftaetern  Kriminellen missbraucht werden. BM Sobotka  Integration Migration EU Asyl Oe…',0
+'Das Asylrecht darf nicht von Straftaetern  Kriminellen missbraucht werden. BM Sobotka  Integration Migration EU Asyl OeVP',0
+'  Sonderverordnung ist wichtige nationale Massnahme weil gemeinsame EU-Loesung noch nicht vorhanden. BM Sobotka  Migration …',0
+'  Wir muessen dankbar sein dass so viele Leute hilfsbereit sind  Hervorragendes leisten. Sobotka  Integration Migration EU…',0
+'Wir muessen dankbar sein dass so viele Leute hilfsbereit sind  Hervorragendes leisten. Sobotka  Integration Migration EU Asyl OeVP',0
+'Sonderverordnung ist wichtige nationale Massnahme weil gemeinsame EU-Loesung noch nicht vorhanden. BM Sobotka  Migration Asyl OeVP',0
+'Politische Bildung in der Migrationsgesellschaft 9. Sept. 2016  ',0
+'Rechtliche Vielfalt von Migration und ihre Konsequenz fuer SozialeArbeit  ',0
+'  These: Migration ist keine Loesung. Frieden halten keine Korruption nicht so viele Kinder in den Heimatlaendern waere dagegen…',0
+'These: Migration ist keine Loesung. Frieden halten keine Korruption nicht so viele Kinder in den Heimatlaendern waere dagegen hilfreich.',0
+'  Migration kostet Oesterreich die naechsten 10 Jahre 10 Mrd Euro     Lueckenlose Grenzsicherung kostet einen Bruchteil.    Was sagt…',0
+'AM Steinmeier bei DEU-ITA-Regierungskonsultationen mit AM  Gespraeche u.a. zu Libyen + Migration ',0
+'Fluechtlingskriminalitaet | refugeeswelcome MerkelMuslims asylanten krimigranten ',0
+' Politik ist keine Exceltabelle. Weltweite Migration verbietet simple Strategien: Grenzen schliessen Schiessbefehl ',0
+'  Papst Franziskus gruendet neue Kurienbehoerde fuer soziale Fragen und Menschenrechte: ',1
+'Papst Franziskus gruendet neue Kurienbehoerde fuer soziale Fragen und Menschenrechte: ',0
+'    Bravo  Sexueller Missbrauch von Kindern durch Asylanten ist in ihrer Diktion also nur mehr Grapsc…',0
+'  Bravo  Sexueller Missbrauch von Kindern durch Asylanten ist in ihrer Diktion also nur mehr Grapschen...',0
+'  Ab September: Bayern schreibt Wohnsitz fuer Asylbewerber vor. Was sich alles aendert: ',0
+'Schleichende Islamisierung Deutschlands. Chronik 2015. Wir importieren religioese Konflikte: ',0
+'Wirtschaftsfluechtlinge Bitte Platz machen fuer echte Asylanten. ...denen helfen die wirklich um ihr Leben bangen! Bevor der Platz fehlt!',0
+'Sieht sehr interessant aus  Mit Livestreams in Deutsch und Arabisch. Migration Geschichte ',0
+'Imigranten bzw. Asylanten sollten das Grundgesetz als oberste Instanz verbindlich anerkennen - oder ausgewiesen werden. CDU SPD Gruene',0
+'Korrekt formuliert: Staatsangehoerige Asylbewerber bekommen einen WohnSITZ Staatenlose deutsch sind in wohnHAFT. ',0
+'stoprefugees migration   Das koennte so einfach sein!nach 1 Wo.waere Schluss!  Wer hat ein Interesse an den Illegalen? ',0
+'Keine Chance mehr: Jaeger musste das Kitz erloesen Fischen Rehkitz Leblos Asylbewerber Rettung  ',0
+'  Welchen Einfluss hat Migration auf demografische Entwicklungen? Morgen beginnt der Demografiekongress in Berlin: ',0
+'Am 1. Jahrestag vom Merkel-Satz wirschaffendas kuendigt Papst Behoerde fuer Migration an. Alle Migranten dahinschicken ',0
+'Das neue Jahr2017 beginnt leider wie das alte Jahr geendet hat.  Krimigranten NafrisRaus Fluechtlingspolitik ',0
+?,0
+?,0
+'  Biblis: Ehepaar (75 79) in eigener Wohnung ueberfallen!  schauhin was fuer Leute so was machen:  ',0
+'Biblis: Ehepaar (75 79) in eigener Wohnung ueberfallen!  schauhin was fuer Leute so was machen:  ',0
+'Sie sind schon unterwegs ... Fluechtlinge Migranten Asylanten auf den Oertlichkeiten in Koeln. Danke Merkel… ',0
+'  migration Sozialstaat oder ungesteuerte Zuwanderung? Staatsschulden explodieren zuungunsten kuenftiger Generationen ',0
+'  Dessau: S-Bahn-Fahrgaeste mit Messer bedroht!  schauhin bei wem du stets mit so was rechnen musst:  ',0
+'Polizei verteilte in Wien Taschenalarme - Volksverdummnung sollte lieber Krimigranten Abschieben koeln- krone.at ',0
+'Die Folgen der Migration zeigen sich schonungslos - aber benannt werden darf nicht. ',0
+'  Heinz Bude: Die Parteien haben Angst vor der Angst der Leute  ',0
+'Migration: 50.000 Arbeitsvisa fuer Westbalkanlaender | ZEIT ONLINE   via  ',0
+?,0
+'Mann mit dunkler Hautfarbe bedroht Zugreisende in Dessau: ',0
+'Marokkanische Antaenzer sind schon in Silvesterstimmung: ',0
+'Erstes Silvester an dem man sich in seinem eigenen Land nicht mehr frei bewegen darf koelnhbf silvester2016 schutzzonen krimigranten',0
+'  Wenn solche hetzerischen Krimigranten hier unbehelligt leben koennen stimmt doch was mit unseren Gesetzen nicht! ',0
+'  Landau: Frau betatzt Helfer bedroht!  schauhin schon wieder so ein marokkanischer Einzelfall  ',0
+'  Der Druck der maennl. Krimigranten scheint so hoch zu sein dass sogar Polizistinnen bedraengt werden ',0
+'Landau: Frau betatzt Helfer bedroht!  schauhin schon wieder so ein marokkanischer Einzelfall  ',0
+'Dessau: S-Bahn-Fahrgaeste mit Messer bedroht!  schauhin bei wem du stets mit so was rechnen musst:  ',0
+'Der Druck der maennl. Krimigranten scheint so hoch zu sein dass sogar Polizistinnen bedraengt werden ',0
+'Wenn solche hetzerischen Krimigranten hier unbehelligt leben koennen stimmt doch was mit unseren Gesetzen nicht! ',0
+'Die Politik ist jetzt voellig durchgedreht. Das BKA meldet die Krimigranten sind nicht so kriminell.Wieso solche… ',0
+'  Warum es so schwierig ist Migranten ohne Genehmigung abzuschieben - Man muss halt auch wollen Migration ',0
+'  Wassertruedingen: Brand in Gemeinschaftsunterkunft!  schauhin wers auch diesmal wieder NICHT war:  ',0
+'  Karlsruhe: Uebles Raubzeug auf Beutezug!  schauhin die ueblichen Verdaechtigen: arabisch aussehende  ',0
+'Karlsruhe: Uebles Raubzeug auf Beutezug!  schauhin die ueblichen Verdaechtigen: arabisch aussehende  ',0
+'Wassertruedingen: Brand in Gemeinschaftsunterkunft!  schauhin wers auch diesmal wieder NICHT war:  ',0
+'Feiern in Berlin. 2016.  r2g rotrotgruen Merkel Grenzen Migration IS Terror Koeln Transitzonen     ',0
+'  Keiner uebernimmt Verantwortung. Niemand tritt zurueck. Alle reden sich um Kopf und Kragen. Asylchaos Terror Fluechtlinge…',0
+'  Ein Amt das Asylverfahren nur noch als abzuarbeitende Zahl sieht muss Bundesamt GEGEN Migration  Fluechtlinge heissen. …',0
+' - was erzaehlen Sie da? In Sachsen gibt es doch keine Asylanten. Wurde mir oefter im STAATS-TV erklaert. AfD',0
+?,0
+' Und werden sich hinterher gegenseitig sagen Siehste war ja alles harmlos immer diese Angstmache! Rapugees Krimigranten',0
+'  Bremen Asylanten Abschiebung umgewandelt in Aufenthaltserlaubnis durch Willkuer  ',0
+'Ob es dieses Sylvester wieder zu Uebergriffen durch Asylanten und Migranten auf Frauen kommt? Merkel Deutschland 2017',0
+'Ekelhafte Antaenzer machen sich schon mal warm fuer morgen abend: ',0
+'  Migrantenkriminalitaet | asylanten StopRefugees asylchaos Bereicherung afd spd ',0
+'Ja und es betrifft schon laengst nicht mehr nur die Frauen. Merkel Fluechtlinge Migration ',0
+'Migrantenkriminalitaet | asylanten StopRefugees asylchaos Bereicherung afd spd ',0
+'Bald ist es wieder so weit: Freies SilvesterFummeln fuer Krimigranten. ',0
+'  Wiesbaden: Brandstifter gefasst!  schauhin schon wieder so ein verhaltensorigineller Somalier:  ',0
+'  Gochsheim: Fachkraefte spielen lustige Spiele - beide verletzt!  schauhin was da schon wieder los war:  ',0
+'  Freising: Ueberfall auf Getraenkemarkt!  schauhin wer SICH da bereichert hat:  ',0
+'  Moorrege: Uebles Raubzeug im Rudel auf Beutezug!  schauhin die ueblichen Verdaechtigen: suedlaendische  ',0
+'WebInfoSession Aufzeichnung: Haben Sie sich von Ihrem ISDN bereits verabschiedet? Migration ',0
+'Wir wuenschen allen Freunden und Sympathisanten schonmal einen sicheren Start ins Jahr 2017    Oberhausen refugeesNOTwelcome remigration',0
+'Moorrege: Uebles Raubzeug im Rudel auf Beutezug!  schauhin die ueblichen Verdaechtigen: suedlaendische  ',0
+'  Migrantenkriminalitaet | asylchaos gruene asylanten einzelfall islamismus ',0
+'Freising: Ueberfall auf Getraenkemarkt!  schauhin wer SICH da bereichert hat:  ',0
+'Gochsheim: Fachkraefte spielen lustige Spiele - beide verletzt!  schauhin was da schon wieder los war:  ',0
+'Migrantenkriminalitaet | asylchaos gruene asylanten einzelfall islamismus ',0
+'  Super Idee unbedingt zu uebernehmen in Zeiten unkontrollierter Fluechtlingsstroeme und Familiennachzuege Merkel Fluechtlinge M…',0
+'  Lesenswert: Jihadismus in Europa ist nicht die Radikalisierung des Islam sondern die Islamisierung Radikaler. ',0
+'  sinnvoll gegen Islamisierung und Terror vorzugehen. Auch wenn Ihr das nicht versteht.',0
+'  Rapefugees direkt wieder abschieben ',0
+'  + TUeRKEI +  Er liebt es wenn ein Plan funktioniert !  ISLAMISIERUNG LIVE !  ! ',0
+'Ich habe ein  positiv bewertet: ',0
+'  Islamisierung der DB? ',0
+'  Constantin Siebt in TAZ: Jihadismus in Europa ist nicht die Radikalisierung des Islam sondern die Islamisierung Radika…',0
+'Rapefugees direkt wieder abschieben ',0
+'    Haben wir eine Islamisierung? Rechtspopulismus in der SPD angekommen. notamused',0
+'  Merkelmussweg SZ ARD presseclub Wer Terroristen ins Land laesst oder die Islamisierung vorantreibt bombt mit! ',0
+'Frueher sagte man die Engel machen Pipi seit der Islamisierung heisst es nur noch es regnet. Weiss da jemand genaues? FBsimulation',0
+'Islamisierung der DB? ',0
+'   Merkelmussweg ARD Muenchen Aber es geht doch nicht um Hilfe! Es geht um die Islamisierung Europas! ',0
+'Die ISLAMISIERUNG in SCHWEDEN  ',0
+'Jihadismus in Europa ist nicht die Radikalisierung des Islam sondern die Islamisierung Radikaler via ',0
+'  Friedenspreistraeger Boualem Sansal warnt im JF-Interview vor Islamisierung: ',0
+'  Die Islamisierung der Kriminalitaet - Wieso kann der IS seinen Terror so erfolgreich nach Europa tragen?  ',0
+'Beim Kampf gegen angebl. Islamisierung von D ist Hetze gegen Israel natuerlich nur aehm folgerichtig... ',0
+' Merkelmussweg ARD Muenchen Aber es geht doch nicht um Hilfe! Es geht um die Islamisierung Europas! ',0
+'  Wir Steuerzahler bluten fuer EU-Tuerkei-Fluechtlingsabkommen. Jetzt erst recht AfD waehlen! Islamisierung Islam htt…',0
+'Jihadismus in Europa ist nicht die Radikalisierung des Islam sondern die Islamisierung Radikaler. ',0
+' Es koennte das letzte Fest dieser Art gewesen sein wenn erst einmal die Islamisierung fortschreitet Gefahr fuer Homos !!!!!',0
+'  Jihadismus in Europa ist nicht die Radikalisierung des Islam sondern die Islamisierung Radikaler. ',0
+'1906 Baergida nennt EU  Soros kriminelle Vereinigung da sie Islamisierung Europas verfinanzieren wuerden WashingtonPlatz noBaergida',0
+'    Alfi will die traumatisierten Rapefugees des irren  endgueltig in den Wahnsinn treiben...!',0
+'Schweiz: Harte Strafen fuer Burkatraegerinnen…frohe und intelligente Schweizer…sie lehnen die… ',0
+'  ZDF FRONTAL21 Falsche Paesse fuer Fluechtlinge mit passender Hautfarbe fuer ein paar Euro. Freie Fahrt dem Terror... I…',0
+'  ZDF abmerkeln Merkelmussweg illner maischberger ARD MDR Es gibt keine Islamisierung? Ist das dann Fasching? ',0
+'Dass islamicrelief in einer U-Bahn Station in Berlin wirbt hat nicht mit islamisierung zu tun. ',0
+'ZDF abmerkeln Merkelmussweg illner maischberger ARD MDR Es gibt keine Islamisierung? Ist das dann Fasching? ',0
+'  Traurig aber leider wahr  aber niemand will etwas von einer Islamisierung bemerken ! Ichwaehleafd moslem ',0
+'   Wann kuemmern Sie sich mal um die wahren Kriminellenrapefugees und Autoanzuender?',0
+'Ich habe keine Angst vor Islamisierung. Gehoer ich somit ueberhaupt noch zu Deutschland? Und zu Europa? Der westlichen Welt wenigstens?',0
+'Christen werden in England von Moslems angegriffen!Keine Islamisierung? ',0
+'  Neue Partei in Tschechien gegen Islamisierung Europas ',0
+'Migrantenpartei DENK in Niederlande nimmt Urbevoelkerung und Staat ins Visier.  Islamisierung voll im Gang ',0
+'Arte Thema - Islamisierung - guter Beitrag. Jetzt.',0
+'ZDF FRONTAL21 Falsche Paesse fuer Fluechtlinge mit passender Hautfarbe fuer ein paar Euro. Freie Fahrt dem Terror... Islamisierung',0
+'Neue Partei in Tschechien gegen Islamisierung Europas ',0
+'Kunstaktion quot;Fl�chtlinge fressenquot; endet unblutig ',0
+'Genug_ist_Genug  Ein kleiner Rueckschlag fuer die Islamisierung Deutschlands. Obwohl es die Oberbuergermeister und... ',0
+'Na was fuer ein Glueck das es mal keiner der geilen Invasoren oder bunten Bereicherer war ! Islamisierung  ',0
+' Die Probleme mit dem Islam und der Islamisierung werden doch voellig unterschaetzt.',0
+' Das ist die Reaktion auf die Aufblaehung von Problemen bis zur Islamisierung des Abendlandes.Beides nicht sinnvoll.',0
+'  Die Englaender haetten sich mehr um die Islandisierung als um die Islamisierung kuemmern sollen ENGISL Brexit',0
+'LPT Europa Universalis 4 | Islamisierung | Part 16 | WIR LEBEN!: ',0
+'Traurig aber leider wahr  aber niemand will etwas von einer Islamisierung bemerken ! Ichwaehleafd moslem ',0
+'Vorsicht Hetze  Rapefugees machen munter weiter Tag fuer Tag vergewaltigen sie sich durch Deutschland. ',0
+'gute Nacht London – Scharia ick hoer dir trapsen ',0
+' so weit ist also die Islamisierung schon fortgeschrittenen... selbst auf unsere Wirtschaft haben es die Musels abgesehen',0
+'Ex-Muslime gegen die Islamisierung des Abendlandes ',0
+' Wir werden ersiedelt! Politik erkennt das nicht! Oder will es nicht erkennen! Aber: Islamisierung findet NICHT statt!',0
+?,0
+'Neue Partei in Tschechien gegen Islamisierung Europas | Unzensuriert.at ',0
+'  Die haette bei den Rapefugees bestimmt den Hammer kreisen lassen.',0
+'  Ohne Konzept in G8 gestolpert aber fuer die Rueckkehr eines verlangen... Mit uns zurueck zu G9! AfD ',0
+'  Religionsfreiheit nach Art. 4 GG schliesst auch das Recht ein von Religion frei und unbehelligt zu sein. AfD ',0
+'Bestimmt wird es dank des Buergermeisters auch in Monheim bald arabische Strassennamen geben. NoIslam Islamisierung ',0
+' Als Alice Weidel ist ein Fake (gut so) und Ihr wollt einen Account verklagen? Passt zu Euch Populisten! Afd unwaehlbar',0
+'  AfD Demo gera2810: Hoecke betitelt den Tatbestand der Schoa-Leugnung als Meinungsdelikt u kritisiert laenge der Haft…',0
+'Liebe  natuerlich geht es um den Neubau einer Moschee in Moenchengladbach. HoGeSa. PEGIDA. AfD. ',0
+'  Bei der Welt hat neben Broder nur noch Schuemer einen unverstellten Blick aufs Ganze. Merkelstaat AFD CDU ',0
+'  Nicht satisfaktionsfaehig: Kardinal Woelki wettert gegen AfD posiert auf kt16 aber zusammen mit Volker Beck! ',0
+'Wer Gruene hat braucht keine Reichsbuerger und AfD mehr. 05 ist 200\% Aluhut BlondeProfessorentoechter s21',0
+'  Kann man machen! Dann aber bei oeffentlich-rechtlichen Sendern der Hinweis: Vorsicht beim Betreten der transatlantischen…',0
+'  Zeit fuer die AfD und ein schoenes Wochenende! ',0
+'   zwei Stunden geht ja noch. Die afd will die Uhren ja gleich 60 Jahre zurueck drehen.',0
+' 8-er AfD-Fraktion bereit zur Sach - und Fachopposition in bvv Pankow. StraftaterfuellendesNazi raus-G… ',0
+'  Maas will Regeln fuer Kinderehen verschaerfen. Und ich Dummerchen hielt das bislang fuer verboten. AfD',0
+'AfD Dortmund rueckt weiter nach rechts ',0
+'  Wir importieren zu grossen Teilen Gewaltverbrecher und keine armen Fluechtlinge AfD Huetter ',0
+'Kinderehen sind in Deutschland verboten. Punkt. Wie man damit umgeht dass sie anderswo nicht verboten waren das i… ',0
+'  Kiel: Moscheebesuch Pflicht fuer Schueler ',0
+'  AfD-Abgeordnete muessen regelmaessig vor linken Demonstranten beschuetzt werden.  Andersherum gab es das noch nie! Demok…',0
+'Wer? Etwa der Lotto-Glaser?  AfD ',0
+'  Einzigster Partei die einen Eilantrag gegen CETA gestellt haben ist . Sollten von  bis AfD Waehle…',0
+'  Rechentricksereien um dem Buerger einen Baeren aufzubinden! Herr Groehe stehen Sie endlich zu den Fakten! AfD  ',0
+'  Antrag AfD Schutz von Kindern und Jugendlichen - Kinderehen verbieten wurde von Rot-Rot-Gruen-Schwarz abgelehnt! Me…',0
+'Vergesst  Gruselnamen AfDlern oder anderweitig rechtsorientierten Randgruppen sollte der Blick in den Spiegel reichen ... NoNazis',0
+'Darf ich die AfD eigentlich noch doof finden - oder ist das schon Hate Speech?',0
+'  Ahoi Alternative!  Ex-CDU-Rebell Maximilian Krah will bei der AfD anheuern. Im September gab´s schon Hinweise: ',0
+'  Nicolaus Fest zum Thema Freiheit. AfD ',0
+' Drum links zwei drei! Drum links zwei drei! Wo dein Platz Genosse ist! Reih dich ein in die Arbei… ',0
+'  Hoerbuch- Grundsatzprogramm der AfD - Vorwort Von Frauke Petry MutzuDeutschland  ',0
+'Ich behalte mir uebrigens auch 2017 vor AfD-Waehler pauschal doof zu finden. welcome2017 silvester2016',0
+'Nationalismus: Koeln: Polizei kontrolliert ueber 1.000 Personen nordafrikanischer Herkunft ',0
+'Nachrichten: Koeln: Polizei kontrolliert ueber 1.000 Personen nordafrikanischer Herkunft ',0
+'  Schluss mit Politischer Korrektheit und Genderwahn in der deutschen Sprache! 2017 wird Jahr des Freien Wortes! AfD htt…',0
+'  Lasst uns heute NichtMeineKanzlerin trenden.  Retweet!  silvester merkel afd neujahrsansprache frohesneuesjahr gu…',0
+'  Merkels Ansprache? Uninteressant  unglaubwuerdig.  Interessant ist was die AfD zu sagen hat. Einschalten!  abmerkeln nic…',0
+'  Ich wuensche Ihnen ein erfolgreiches Jahr 2017. Bleiben Sie sich und der AfD treu.  silvester2016 ',0
+'Ich wuensche allen Followern ein gutes und vor allem politisch interessantes neues Jahr... AfD btw17',0
+'  Netzfundstueck zum Jahreswechsel afd pegida ',0
+'  Merkels Neujahrsansprache:  Keine Spur von Reue keinen einzigen Fehler eingestanden  - die eine Phrase jagt die naechste.…',0
+'Netzfundstueck zum Jahreswechsel afd pegida ',0
+'  Deutschland ist wenn dumme Narren ungestraft hetzen duerfen afd',0
+'  Endspurt im AfD Spendenmarathon 2016   Per PayPal - ',0
+'  Mitglieder der Berliner AfD bei der Beerdigung von Lukasz Urban.  Weitere Gaeste: u.a. Praesident Duda. (via ',0
+'  Einen guten Rutsch ins neue Jahr! 2017 wird das Jahr der AfD!',0
+'  Allen Followern Freunden und AfD-Gegnern einen guten Rutsch und ein tolles 2017! NoAfD',0
+'  FakeNews ZDF heute suggeriert 1500 Polizisten in Koeln seien wegen geplanter Kundgebungen von AFD und NPD vor Or…',0
+'  Ein frohes und gesundes neues Jahr und wir schaffen das BTW17 AfD  merkelmussweg',0
+'  Neujahr !!!Meine Bitte und mein Verprechen!!! 2017 darf nicht 1984!!! werden ',0
+'AfD RLP: Wir bedanken uns fuer die bisherige U… ',0
+'Ist das bei euch anders? afd ',0
+'  Wir wuenschen Ihnen einen guten Rutsch ins neue Jahr 2017. Das Jahr der Entscheidung... welcome2017 silvester2016 AfD',0
+'Ein frohes und gesundes neues Jahr und wir schaffen das BTW17 AfD  merkelmussweg',0
+'  Guten Rutsch!  Auf ein erfolgreiches Jahr 2017 AfD unserJahr',0
+'FrohesNeuesJahr! Moege die AfD das beste Ergebnis bei der BTW17 holen!',0
+'Mein einziger und hoffentlich wirkungsvollster Knaller; die Spende am die AFD !',0
